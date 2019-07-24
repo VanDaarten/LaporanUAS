@@ -1,0 +1,7 @@
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+F:\Pemograman\ProjectCustomer\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
